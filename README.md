@@ -4,3 +4,7 @@ A minimalist 60‑second typing trainer built with Python’s Tkinter. When the 
 
 Run: python main.py 
 
+
+
+https://github.com/user-attachments/assets/c3e9988b-a939-41ad-a80c-a6aececc24d7
+
